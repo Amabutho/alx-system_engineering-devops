@@ -1,1 +1,1 @@
-Script changes the wd to the users hd
+Script displays cd contents in long format
