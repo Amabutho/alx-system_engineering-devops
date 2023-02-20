@@ -1,1 +1,1 @@
-Script prints the absolute path name of the cwd
+Script changes the wd to the users hd
